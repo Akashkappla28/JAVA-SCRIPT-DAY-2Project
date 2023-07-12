@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://cdn.pixabay.com/photo/2016/06/13/09/57/meeting-1453895_640.pngs");
+}
+
+#aa{
+    border: solid;
+    text-align: center;
+    border-radius: 15px;
+    padding:5px;
+    background-color:lightblue;
+}
+body{
+   background-image: url("https://cdn.pixabay.com/photo/2016/06/13/09/57/meeting-1453895_1280.png");
+}
